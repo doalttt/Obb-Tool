@@ -13,4 +13,4 @@ there is a built in cert if you need to sign your own keystore if needed.**
 - **threading**
 - **tkinter**
 - **7-ZIP** (built in)
-- **Java 11 or higher**
+- **Java 11 or higher** https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox
