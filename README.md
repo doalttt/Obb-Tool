@@ -1,7 +1,7 @@
 # Obb-Tool 🛡️
 ## How to use it?:
 **Double click "ObbTool.py" or run "python ObbTool.py" in a powershell
-then use the big button in the middle to select the obb file then unpack it
+then Load a obb file inside of: File --> Load OBB then click Unpack OBB
 to repack go to File --> Load Folder, then click the "Repack and Sign" button once your done modifying.**
 
 ## how do i use my own keystore?:
